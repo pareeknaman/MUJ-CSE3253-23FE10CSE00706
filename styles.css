@@ -1,0 +1,26 @@
+/* styles.css - basic styling */
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f5f5f5;
+}
+
+.header {
+  padding: 20px;
+  background: #222;
+  color: white;
+  text-align: center;
+}
+
+.container {
+  padding: 20px;
+}
+
+.btn {
+  padding: 10px 16px;
+  border: none;
+  background: #0b5ed7;
+  color: white;
+  cursor: pointer;
+  border-radius: 6px;
+}
